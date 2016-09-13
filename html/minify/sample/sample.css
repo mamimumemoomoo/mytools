@@ -1,0 +1,28 @@
+* {
+	line-height: 1;
+	font-size: 12px;
+	font-style: normal;
+	padding: 0;
+	margin: 0;
+}
+
+html { height: 100%; padding: 0; margin: 0; }
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, textarea, fieldset, p, blockquote, table, th, td {
+	background: transparent none;
+	border: 0 none #FFFFFF;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	text-align: center;
+	font-family: "�ｭ�ｳ �ｰ繧ｴ繧ｷ繝�け", Arial, Verdana, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	background: #36303C;
+}
+
+* html body { overflow: auto; }
+*+html body { overflow: auto; }
+body { overflow: scroll; }
